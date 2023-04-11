@@ -1,7 +1,7 @@
 # Supermarket_Sales_Analysis_-SQL-
 Sales analysis of supermarket sales done through SQL queries.
 ## Overview
-The objective of this project is to analyze the data in a supermarket sales dataset
+The objective of this project is to use different SQL functions to explore and analyze the dataset.
 ## Dataset
 The dataset is from Kaggle. It can be accessed and downloaded at [Kaggle.com](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)
 ## Tool/Software
