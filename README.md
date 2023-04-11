@@ -8,6 +8,7 @@ The dataset is from Kaggle. It can be accessed and downloaded at [Kaggle.com](ht
 - MySQL
 ## Problem
 - Question 1: What is the total gross income for each product line?
+  ![Total Gross Income for each product line](./Images/Question 1.png)
 - Question 2: What are the total sales for each product line for each month?
 - Question 3: What is the average gross margin percentage for each product ine?
 - Question 4: What is the average number of products purchased by customers for each product line?
